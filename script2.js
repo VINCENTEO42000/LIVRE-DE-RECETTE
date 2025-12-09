@@ -43,3 +43,4 @@ if (reponse === "coca" || reponse === "café" || reponse === "jus d'orange" ) {
 else   {
     alert("non disponible");
 }
+
